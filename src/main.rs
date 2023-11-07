@@ -30,4 +30,12 @@ fn main() {
     let new_dog = dog.replace("the", "is my");
     println!("{}", new_dog);
 
+    /** Other Methods: 
+     * split
+     * split_whitespace
+     * chars
+     * 
+     * find in official docs on Rust website. 
+     */
+
 }
